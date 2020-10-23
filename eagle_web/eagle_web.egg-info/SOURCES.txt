@@ -1,0 +1,7 @@
+README.rst
+setup.py
+eagle_web/__init__.py
+eagle_web.egg-info/PKG-INFO
+eagle_web.egg-info/SOURCES.txt
+eagle_web.egg-info/dependency_links.txt
+eagle_web.egg-info/top_level.txt
